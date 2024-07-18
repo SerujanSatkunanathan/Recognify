@@ -1,0 +1,7 @@
+streamlit
+deepface
+numpy
+open-cv
+matplotlib
+zipfile
+time
