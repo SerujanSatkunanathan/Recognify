@@ -1,5 +1,6 @@
 streamlit
 Pillow==9.4.0
+python_version >= "3.7"
 numpy==1.26.4
 deepface==0.0.92
 tensorflow
