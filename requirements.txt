@@ -1,5 +1,4 @@
 streamlit
-pip_version=="24.1.2"
 Pillow
 python_version=="3.12.4"
 numpy
