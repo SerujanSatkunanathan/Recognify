@@ -2,3 +2,4 @@ streamlit
 deepface
 numpy
 matplotlib
+pip install --upgrade tensorflow deepface
