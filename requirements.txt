@@ -1,9 +1,6 @@
-streamlit 
-numpy
-tensorflow
-mtcnn
-opencv-python-headless 
-deepface
-matplotlib
-pandas
-
+streamlit
+tensorflow==2.12.0
+keras==2.12.0
+mtcnn==0.1.0
+deepface==0.0.92
+opencv-python-headless==4.5.5.64
