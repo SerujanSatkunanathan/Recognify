@@ -1,6 +1,4 @@
-streamlit
-deepface
-numpy
-matplotlib
-pip install --upgrade pip
-pip install --upgrade tensorflow deepface
+tensorflow==2.11.0
+deepface==0.0.75
+streamlit==1.36.0
+
