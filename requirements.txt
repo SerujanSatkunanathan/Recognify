@@ -1,5 +1,7 @@
 streamlit 
+python_version>="3.12"
 opencv-python-headless 
 deepface
 matplotlib
 pandas
+tensorflow
