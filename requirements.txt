@@ -1,7 +1,7 @@
 streamlit
 deepface
 numpy
-open-cv
+cv2
 matplotlib
 zipfile
 time
