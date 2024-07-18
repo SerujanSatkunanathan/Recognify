@@ -1,8 +1,8 @@
 streamlit
 Pillow
 python_version>="3.12"
-numpy
+numpy==1.26.4
 deepface==0.0.92
-tensorflow
+tensorflow==2.17.0
 opencv-python
 matplotlib==3.7.2
