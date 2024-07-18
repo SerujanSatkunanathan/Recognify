@@ -1,7 +1,9 @@
 streamlit 
 numpy
+tensorflow
+mtcnn
 opencv-python-headless 
 deepface
 matplotlib
 pandas
-tensorflow
+
