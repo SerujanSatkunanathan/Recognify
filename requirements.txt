@@ -2,7 +2,6 @@ streamlit
 Pillow==9.4.0
 numpy==1.26.4
 deepface==0.0.92
-python==3.9
 tensorflow
 opencv-python
 matplotlib==3.7.2
